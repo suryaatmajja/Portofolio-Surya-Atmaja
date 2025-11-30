@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="hover:bg-[#323232] px-2 py-1 rounded-2xl max-w-[70%]">
           <a href="#Home" className="flex items-center gap-2 overflow-hidden">
             <img
-              src="./public/assets/logo-SA.png"
+              src="/assets/logo-SA.png"
               alt="Logo"
               className="w-5 sm:w-7 h-auto"
             />
@@ -39,13 +39,13 @@ const Navbar = () => {
         >
           {!isOpen ? (
             <img
-              src="./public/assets/menu.png"
+              src="/assets/menu.png"
               alt="Open menu"
               className="w-7 h-7 object-contain"
             />
           ) : (
             <img
-              src="./public/assets/close.png"
+              src="/assets/close.png"
               alt="Close menu"
               className="w-7 h-7 object-contain"
             />
@@ -116,7 +116,7 @@ const Navbar = () => {
             aria-label="Close menu"
           >
             <img
-              src="./public/assets/close.png"
+              src="/assets/close.png"
               alt="Close menu"
               className="w-6 h-6 object-contain"
             />

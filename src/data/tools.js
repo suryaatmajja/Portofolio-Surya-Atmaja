@@ -1,31 +1,31 @@
 const dataTools = [
   {
     name: "VS Code",
-    img: "./public/tools/Vscode.png",
+    img: "/tools/Vscode.png",
   },
   {
     name: "Dbaver",
-    img: "./public/tools/Dbaver.png",
+    img: "/tools/Dbaver.png",
   },
   {
     name: "Figma",
-    img: "./public/tools/Figma.png",
+    img: "/tools/Figma.png",
   },
   {
     name: "GitHub",
-    img: "./public/tools/Github.png",
+    img: "/tools/Github.png",
   },
   {
     name: "Drawio",
-    img: "./public/tools/Drawio.png",
+    img: "/tools/Drawio.png",
   },
   {
     name: "Xampp",
-    img: "./public/tools/Xampp.png",
+    img: "/tools/Xampp.png",
   },
   {
     name: "Postman",
-    img: "./public/tools/Postman.png",
+    img: "/tools/Postman.png",
   },
 ];
 export default dataTools;

@@ -1,39 +1,39 @@
 const dataSkills = [
   {
     name: "HTML",
-    img: "./public/skill/HTML.png",
+    img: "/skill/HTML.png",
   },
   {
     name: "CSS",
-    img: "./public/skill/CSS.png",
+    img: "/skill/CSS.png",
   },
   {
     name: "Java Script",
-    img: "./public/skill/JS.png",
+    img: "/skill/JS.png",
   },
   {
     name: "React",
-    img: "./public/skill/React.png",
+    img: "/skill/React.png",
   },
   {
     name: "Tailwind",
-    img: "./public/skill/Tailwind.png",
+    img: "/skill/Tailwind.png",
   },
   {
     name: "MySQL",
-    img: "./public/skill/MySQL.png",
+    img: "/skill/MySQL.png",
   },
   {
     name: "Node Js",
-    img: "./public/skill/NodeJS.png",
+    img: "/skill/NodeJS.png",
   },
   {
     name: "Express Js",
-    img: "./public/skill/Express.png",
+    img: "/skill/Express.png",
   },
   {
     name: "GIT",
-    img: "./public/skill/GIT.png",
+    img: "/skill/GIT.png",
   },
 ];
 export default dataSkills;

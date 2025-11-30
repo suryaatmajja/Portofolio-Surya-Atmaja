@@ -62,7 +62,7 @@ const Home = () => {
 
         {/* Fade Up untuk gambar */}
         <motion.img
-          src="./public/assets/hero-img.png"
+          src="/assets/hero-img.png"
           alt="Hero image"
           className="w-[400px] rounded-[75px] md:ml-auto"
           initial={{ opacity: 0, y: 30 }}
