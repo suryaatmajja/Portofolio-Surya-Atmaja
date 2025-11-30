@@ -1,7 +1,7 @@
 const dataTools = [
   {
     name: "VS Code",
-    img: "/tools/Vscode.png",
+    img: "/tools/VScode.png",
   },
   {
     name: "Dbaver",

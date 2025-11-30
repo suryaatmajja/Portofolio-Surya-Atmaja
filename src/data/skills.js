@@ -33,7 +33,7 @@ const dataSkills = [
   },
   {
     name: "GIT",
-    img: "/skill/GIT.png",
+    img: "/skill/Git.png",
   },
 ];
 export default dataSkills;
